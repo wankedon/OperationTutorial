@@ -1,0 +1,1 @@
+start cmd /C sc delete "gRPC_SignalRecogniseServer"
